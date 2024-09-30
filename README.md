@@ -3,3 +3,6 @@ This is just created for the purpoes of practicing basics of git and github usin
 
 # First Commit
 This is my first commit.
+
+# Second Commit
+This is the second commit
